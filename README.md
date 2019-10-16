@@ -17,7 +17,7 @@ These are things you must know to understand the program:
 3. Pass in the proper arguments as listed below
 
 # Note
-This progras uses Pandas and Numpy (it was just practice for me), so it must be necessary that you install those packages in your environment.
+This program uses Pandas and Numpy (it was just practice for me), so it must be necessary that you install those packages in your environment.
 Just run pip install pandas & pip install numpy and you should be good to go.
 
 ########################################################################
